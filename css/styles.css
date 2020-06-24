@@ -1193,7 +1193,10 @@ input[type='checkbox'] {
 .counter {
 	padding-top: 6.5rem;
 	padding-bottom: 6rem;
-	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('../images/about-background.jpg') center center no-repeat;
+	/*background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('../images/about-background.jpg') center center no-repeat;*/
+	background-color: white;
+	
+	
 	background-size: cover;
 	text-align: center;
 }
@@ -1216,7 +1219,7 @@ input[type='checkbox'] {
 }
 
 .counter #counter .counter-value {
-	color: #ffffff;
+	color:black;
 	font-weight: 700;
 	font-size: 3rem;
 	line-height: 3.625rem;
@@ -1225,7 +1228,7 @@ input[type='checkbox'] {
 
 .counter #counter .counter-info {
 	margin-bottom: 0;
-	color: #ffffff;
+	color:black;
 	font-size: 0.875rem;
 	line-height: 1.5rem;
 	vertical-align: middle;
@@ -1233,7 +1236,7 @@ input[type='checkbox'] {
 
 .counter h4 {
 	margin-bottom: 1.5rem;
-	color: #ffffff;
+	color: black;
 }
 
 .counter .btn-solid-reg:hover {
