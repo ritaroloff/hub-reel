@@ -1048,7 +1048,7 @@ input[type='checkbox'] {
 /********************/
 .split .area-1 {
 	height: 27rem;
-	background: url('../images/iStock-1175392493.jpg') center left no-repeat;
+	background: url('../images/iStock-1175392493.jpg') left no-repeat;
 	background-size: cover;
 }
 
