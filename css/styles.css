@@ -1129,7 +1129,7 @@ input[type='checkbox'] {
 .basic-3 {
 	padding-top: 3.5rem;
 	padding-bottom: 3.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('../images/details-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url('../images/') center center no-repeat;
 	background-size: cover;
 }
 
